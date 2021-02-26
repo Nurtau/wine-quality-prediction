@@ -2,4 +2,4 @@
 
 The quality of white whine is predicted by linear regression (stochastic gradient descent). 
 
-The resulting coefficient of linear regression are written in results.txt.
+The resulting coefficients of linear regression are written in results.txt.
